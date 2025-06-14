@@ -23,7 +23,7 @@ The Flight Management System is a web application designed to manage flight rese
 - Signup, login with google oauth
 - Randomize avatar for new users (Cloudinary)
 - Reset password with token-based email verification
-- Search for flights based on routes and dates
+- Search for flights based on routes and dates.
 - View flight details
 - Make, manage and pay flight reservations (VNPay)
 - Admin page for managing models
